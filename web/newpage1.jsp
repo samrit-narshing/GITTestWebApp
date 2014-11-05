@@ -1,6 +1,6 @@
 <%-- 
-    Document   : index
-    Created on : Nov 5, 2014, 6:14:24 PM
+    Document   : newpage1
+    Created on : Nov 5, 2014, 6:53:44 PM
     Author     : Samrit
 --%>
 
@@ -9,7 +9,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>JSP Page GIT Again Again</title>
+        <title>JSP Page</title>
     </head>
     <body>
         <h1>Hello World!</h1>
